@@ -42,3 +42,10 @@ body{
     background: #fcf70f;
     color: black;
 }
+
+.container .gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+}
