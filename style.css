@@ -37,3 +37,8 @@ body{
     border-radius: 5px;
     cursor: pointer;
 }
+
+.container ul .category.active{
+    background: #fcf70f;
+    color: black;
+}
